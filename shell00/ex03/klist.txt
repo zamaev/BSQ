@@ -1,0 +1,5 @@
+Credentials cache: API:0BF54444-1D6A-4927-A8C6-4639AE62F9B2
+        Principal: hirelia@MSK.21-SCHOOL.RU
+
+  Issued                Expires               Principal
+Jul 14 13:35:26 2020  Jul 14 23:35:26 2020  krbtgt/MSK.21-SCHOOL.RU@MSK.21-SCHOOL.RU
